@@ -1,5 +1,6 @@
 {
-  "Course": {
-    "name":  {"string": {} }
+  "User": {
+    "title": { "string": {} }
   }
 }
+
