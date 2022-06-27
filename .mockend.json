@@ -1,6 +1,45 @@
 {
-  "Test": {
-    "title": { "string": ["testing"] }
+  "Course": {
+    "id": {
+      "string": ["cc-1"]
+    },
+    "courseCode": {
+      "string": ["cc-1"]
+    },
+    "isOptional": {
+      "boolean": [false]
+    },
+    "isOffline": {
+      "boolean": [true]
+    },
+"type": {
+      "string": ["E-Learning"]
+    },
+"title": {
+      "string": ["POC - iKnowNow Offline Course"]
+    },"desc": {
+      "string": ["View contents and perform the test offline"]
+    },"timeLeft": {
+      "string": ["17-Oct-2022 [125 day(s) left]"]
+    },"btnLabel": {
+      "string": ["start"]
+    },
+    "contents": {
+      {
+       "id": {
+      "string": ["cnt-1"]
+    },
+  "title": {
+      "string": ["Video"]
+    },
+  "type": {
+      "string": ["vdo"]
+    },
+  "url": {
+      "string": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"]
+    },
+      },
+    }
   }
 }
 
