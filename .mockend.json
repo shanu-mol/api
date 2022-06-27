@@ -23,22 +23,6 @@
       "string": ["17-Oct-2022 [125 day(s) left]"]
     },"btnLabel": {
       "string": ["start"]
-    },
-    "contents": {
-      {
-       "id": {
-      "string": ["cnt-1"]
-    },
-  "title": {
-      "string": ["Video"]
-    },
-  "type": {
-      "string": ["vdo"]
-    },
-  "url": {
-      "string": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"]
-    },
-      },
     }
   }
 }
