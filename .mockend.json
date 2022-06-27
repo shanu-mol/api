@@ -1,6 +1,6 @@
 {
   "Test": {
-    "title": { "string": "wer" }
+    "title": { "string": ["testing"] }
   }
 }
 
