@@ -1,5 +1,5 @@
 {
   "Course": {
-    "id":  {"string": {} }
+    "name":  {"string": {} }
   }
 }
